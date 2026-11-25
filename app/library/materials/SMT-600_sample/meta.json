@@ -1,0 +1,26 @@
+{
+ "id": "SMT-600_sample",
+ "name": "SMT-600",
+ "kind": "tile",
+ "pattern": "ブリック",
+ "size_mm": [
+  300.0,
+  600.0
+ ],
+ "color": "#cfc8bb",
+ "images": [],
+ "saturation": 1.0,
+ "brightness": 1.0,
+ "joint": 0.5,
+ "note": "架空のサンプル（材種セットの確認用）",
+ "updated": 1793586614.5072417,
+ "product": "SMT-600",
+ "maker": "架空床材",
+ "url": "https://example.com/floortint-sample/SMT-600",
+ "source": "manual",
+ "last_used": "2026-10-30",
+ "projects": [
+  "サンプルオフィス（架空）"
+ ],
+ "discontinued": false
+}

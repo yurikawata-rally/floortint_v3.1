@@ -1,0 +1,29 @@
+{
+ "id": "SMP-310_sample",
+ "name": "SMP-310",
+ "kind": "carpet",
+ "pattern": "アシュラー",
+ "size_mm": [
+  250.0,
+  1000.0
+ ],
+ "color": "#667a68",
+ "images": [
+  "01_01_SMP-310_1.jpg",
+  "02_02_SMP-310_2.jpg"
+ ],
+ "saturation": 1.0,
+ "brightness": 1.0,
+ "joint": 0.5,
+ "note": "架空のサンプル（材種セットの確認用）",
+ "updated": 1793850114.0038192,
+ "product": "SMP-310",
+ "maker": "架空床材",
+ "url": "https://example.com/floortint-sample/SMP-310",
+ "source": "manual",
+ "last_used": "2026-11-05",
+ "projects": [
+  "サンプルオフィス（架空）"
+ ],
+ "discontinued": false
+}

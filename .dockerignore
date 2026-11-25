@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+.cache/
+.pytest_cache/
+.ruff_cache/
+README.md
+README.pdf
+DEPLOY_AZURE.md
+DEPLOY_AZURE.pdf
+.DS_Store
+app/out/

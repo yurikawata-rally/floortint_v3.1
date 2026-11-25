@@ -1,0 +1,28 @@
+{
+ "id": "SMP-099_sample",
+ "name": "SMP-099",
+ "kind": "carpet",
+ "pattern": "流し",
+ "size_mm": [
+  500.0,
+  500.0
+ ],
+ "color": "#80807c",
+ "images": [
+  "01_01_SMP-099_1.jpg"
+ ],
+ "saturation": 1.0,
+ "brightness": 1.0,
+ "joint": 0.5,
+ "note": "架空のサンプル（材種セットの確認用）",
+ "updated": 1793586614.5183725,
+ "product": "SMP-099",
+ "maker": "架空床材",
+ "url": "https://example.com/floortint-sample/SMP-099",
+ "source": "manual",
+ "last_used": "2026-10-30",
+ "projects": [
+  "サンプルオフィス（架空）"
+ ],
+ "discontinued": true
+}

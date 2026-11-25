@@ -1,0 +1,10 @@
+# floortint — 実行依存（開発環境と同一バージョンに固定）。GPU・外部 API は不要
+streamlit==1.57.0
+starlette==1.7.0                     # streamlit 1.57 の gzip 処理は starlette 1.8.0 以降で PNG/JPEG の配信が落ちる（画面の画像が出ない）
+pypdfium2==5.8.0                     # PDF の読み取り・描画（pdfium。BSD-3 / Apache-2.0）。v3.1 で PyMuPDF（AGPL）から置き換えた
+opencv-python-headless==5.0.0.93
+numpy==2.4.4
+pillow==12.2.0
+pandas==3.0.3
+scipy==1.17.1                        # 手書きハッチの間隔（最近傍距離）
+streamlit-image-coordinates==0.4.1   # 部屋をクリックして材種を割り当てる／線で分割／矩形で塗る（無くても表で割り当てられる）

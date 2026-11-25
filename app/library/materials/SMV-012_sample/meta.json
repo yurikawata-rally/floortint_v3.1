@@ -1,0 +1,30 @@
+{
+ "id": "SMV-012_sample",
+ "name": "SMV-012",
+ "kind": "vinyl",
+ "pattern": "ヘリンボーン",
+ "size_mm": [
+  150.0,
+  900.0
+ ],
+ "color": "#a47852",
+ "images": [
+  "01_01_SMV-012_1.jpg",
+  "02_02_SMV-012_2.jpg",
+  "03_03_SMV-012_3.jpg"
+ ],
+ "saturation": 1.0,
+ "brightness": 1.0,
+ "joint": 0.5,
+ "note": "架空のサンプル（材種セットの確認用）",
+ "updated": 1793850114.0038192,
+ "product": "SMV-012",
+ "maker": "架空床材",
+ "url": "https://example.com/floortint-sample/SMV-012",
+ "source": "manual",
+ "last_used": "2026-11-05",
+ "projects": [
+  "サンプルオフィス（架空）"
+ ],
+ "discontinued": false
+}
